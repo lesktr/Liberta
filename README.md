@@ -30,5 +30,5 @@ Uma a cada três mulheres no mundo sofrem com algum tipo de violência, e com a 
 - Ajudar desenvolvedorxs jr a criar um portfólio real, criando produtos digitais de impacto social
 
 Participe da nossa comunidade no slack!
-https://join.slack.com/t/slack-gf65036/shared_invite/zt-r3nfigkk-IoGqdQzd_2EqH__9Pv~h5A
+https://join.slack.com/t/liberta-talk/shared_invite/zt-r3nfigkk-IoGqdQzd_2EqH__9Pv~h5A
 

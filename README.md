@@ -1,4 +1,4 @@
-# Liberta - readme.md
+# Liberta
 
 # ⚡Problema
 

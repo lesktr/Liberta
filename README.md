@@ -28,3 +28,7 @@ Uma a cada três mulheres no mundo sofrem com algum tipo de violência, e com a 
 - Plataforma de comunidade, com Educação / Conscientização, Crowdfunding, Botão de emergência ativado através de um gatilho virtual, definido pela mulher, dificultando o acesso a essa solução pelo agressor
 - Centralizar o apoio em uma plataforma única e colaborativa pode padronizar o atendimento, educação e identificação de padrões para um apoio mais efetivo
 - Ajudar desenvolvedorxs jr a criar um portfólio real, criando produtos digitais de impacto social
+
+Participe da nossa comunidade no slack!
+https://join.slack.com/t/slack-gf65036/shared_invite/zt-r3nfigkk-IoGqdQzd_2EqH__9Pv~h5A
+
